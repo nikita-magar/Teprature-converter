@@ -1,0 +1,12 @@
+{
+  "name": "temprature-converter",
+  "version": "1.0.0",
+  "description": "Temprature converter program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "author": "Nikita Magar",
+  "license": "ISC"
+}
